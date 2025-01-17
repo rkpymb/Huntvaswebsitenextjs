@@ -674,7 +674,7 @@ export default function IndexPage() {
                   <div className={Mstyles.WebhWItem} >
                     
                     <div className={Mstyles.WebhWItemB}>
-                      <div><h1>5 ) Deployment</h1></div>
+                      <div><h1>5 ) Deployment.</h1></div>
                       <div className={Mstyles.Subtext}>
                         <li>Configure the hosting environment, including server settings, security measures, and domain name settings..</li>
                         <li>Set up and configure databases on the hosting server, ensuring they mirror your development environment's database structure and content.</li>

@@ -178,7 +178,7 @@ export default function IndexPage() {
                   </div>
                 </div>
                 <div className={Mstyles.VasGrid1ItemB}>
-                  <span>Encourages Focus On High-priority Goals</span>
+                  <span>Encourages Focus On High-Priority Goals</span>
                   <small> We provide personal assistance services, allowing you to delegate tasks that would otherwise consume your valuable time.</small>
 
                 </div>
@@ -201,7 +201,7 @@ export default function IndexPage() {
                 </div>
                 <div className={Mstyles.VasGrid1ItemB}>
                   <span>Assign Repetitive Tasks</span>
-                  <small> Hire our skilled virtual assistants for spreadsheet creation to perform repetitive tasks without affecting productivity and leaving minimal room for errors. So, you can get your hands on them now!</small>
+                  <small> Hire our skilled virtual assistants for spreadsheet creation to perform repetitive tasks without affecting productivity and leaving minimal room for errors.</small>
 
                 </div>
               </div>
@@ -264,7 +264,7 @@ export default function IndexPage() {
                   </div>
                   <div className={Mstyles.StepVSItemB}>
                     <span>  COACH YOUR WORKER</span>
-                    <small>Give the worker details and train them on exactly what you want them to do. Our workers have expert level english skills and are very fast learners.
+                    <small>Give the worker details and train them on exactly what you want them to do. Our workers have expert level English skills and are very fast learners.
 
                     </small>
 

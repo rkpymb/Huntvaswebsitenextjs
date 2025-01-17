@@ -194,9 +194,9 @@ export default function CustomizedDialogs({ Type, product }) {
                                         <option value={Service}>{Service}</option>
                                         <option value="Virtual Assistant">Virtual Assistant</option>
                                         <option value="Webiste Development">Webiste Development</option>
-                                        <option value="App Delevopment">App Delevopment</option>
+                                        <option value="App Delevopment">App Development</option>
                                         <option value="Graphic Design">Graphic Design</option>
-                                        <option value="Social media management">Social media management</option>
+                                        <option value="Social media management">Social Media Management</option>
                                         <option value="Video Making">Video Making</option>
                                     </select>
                                 </div>

@@ -63,7 +63,7 @@ export const menuItems = [
       },
       {
         path: '/services/social-media-management',
-        label: 'Social media management',
+        label: 'Social Media Management',
       },
     ],
   },

@@ -44,6 +44,12 @@
 
 }
 
+.Boldunderline{
+    font-weight: bold;
+    text-decoration: underline;
+    margin-right: 5px;
+
+}
 .ApptypegridItem {
     display: flex;
     flex-direction: column;
@@ -1060,4 +1066,7 @@
    
 
 
+    .SliderimgDesktop {
+        display: none;
+    }
 }

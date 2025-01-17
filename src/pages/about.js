@@ -28,7 +28,7 @@ export default function IndexPage() {
 
               </p>
               <p>
-              At Hunt VAS, we're driven by the success of our customers. We're constantly striving to provide top-notch virtual assistant services that streamline operations and promote growth. Discover more about our story and how we can be part of yours as you explore our About Us page.
+              At Hunt VAS, we're driven by the success of our customers. We're constantly striving to provide top-notch virtual assistant services that streamline operations and promote growth.
 
               </p>
             </div>

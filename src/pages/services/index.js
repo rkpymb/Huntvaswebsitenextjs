@@ -33,7 +33,7 @@ export default function IndexPage() {
             <h1>What We Offer ?</h1>
             <div>
               <span>
-                Our services cover a wide range of areas, from administrative support to lead generation, calendar management, personal assistance, graphic design, and social media management. Let us handle the details while you focus on the big picture
+                Our services cover a wide range of areas, from administrative support to lead generation, calendar management, personal assistance, graphic design, and social media management. Let us handle the details while you focus on the big picture.
               </span>
             </div>
           </div>
